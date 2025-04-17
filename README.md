@@ -8,6 +8,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fayyas kp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fayyas kp" height="30" width="40" /></a>
-<a href="https://instagram.com/fa_yas_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fa_yas_._" height="30" width="40" /></a>
+  <a href="https://fayyas.vercel.app" target="_blank">
+    <img align="center" src="[https://img.icons8.com/ios-filled/50/000000/domain.png](https://fayyas-kp07.github.io/Port/index.html)" alt="portfolio" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/fayyas-kp" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fayyas kp" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/fa_yas_._" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fa_yas_._" height="30" width="40" />
+  </a>
 </p>
+
