@@ -8,10 +8,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://fayyas-kp07.github.io/Port/" target="_blank" style="margin-right: 10px;">
+  <a href="https://fayyas-kp07.github.io/Port/" target="_blank" style="margin-right: 12px;">
     <img align="center" src="https://img.icons8.com/ios-filled/50/007BFF/internet--v1.png" alt="website" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/fayyas-kp-225522283/" target="_blank" style="margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/fayyas-kp-225522283/" target="_blank" style="margin-right: 12px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fayyas kp" height="30" width="40" />
   </a>
   <a href="https://instagram.com/fa_yas_._" target="_blank">
