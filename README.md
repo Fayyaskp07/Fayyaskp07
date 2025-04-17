@@ -12,7 +12,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 <!-- Then use this in body -->
-<a href="https://fayyas-kp07.github.io/Port/" target="_blank">
+<a href="https://fayyas-kp07.github.io/Port/" target="_blank">🌐</a>
   <i class="fas fa-globe" style="font-size:30px; margin-left: 10px;"></i>
 </a>
 
