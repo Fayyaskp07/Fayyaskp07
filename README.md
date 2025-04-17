@@ -8,9 +8,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://fayyas-kp07.github.io/Port/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="website" height="30" width="40" />
-  </a>
+<!-- Add this to your HTML head -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<!-- Then use this in body -->
+<a href="https://fayyas-kp07.github.io/Port/" target="_blank">
+  <i class="fas fa-globe" style="font-size:30px; margin-left: 10px;"></i>
+</a>
+
   <a href="https://www.linkedin.com/in/fayyas-kp-225522283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fayyas kp" height="30" width="40" /></a>
 <a href="https://instagram.com/fa_yas_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fa_yas_._" height="30" width="40" /></a>
 </p>
